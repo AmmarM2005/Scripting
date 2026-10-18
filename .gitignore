@@ -1,0 +1,14 @@
+*
+!*/
+!*.tcl
+!*.tk
+!*.sh
+!*.csh
+!*.py
+!*.il
+!*.ils
+!*.ocn
+!*.sdc
+!*.upf
+!*.md
+!.gitignore
